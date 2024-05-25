@@ -1,4 +1,4 @@
-# Transaction-Monitoring-v1
-Capstone project Github testing version 2 new test jaymark 
+# React-ShopEase-Project
+Capstone project Github testing version 2 new test jaymark asdsad
 
-add for branch test
+add for branch test 
